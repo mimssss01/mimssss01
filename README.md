@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mimssss01
 - 👀 I’m interested in ...Coding, Reading etc
 - 🌱 I’m currently learning ...Frontend development with meta
-- 💞️ I’m looking to collaborate on ...Web development task, Building apps etc
+- 💞️ I’m looking to collaborate on ... Anything that involves developing😁
 - 📫 How to reach me ...edmundmiracle84@gmail.com
 
 <!---
